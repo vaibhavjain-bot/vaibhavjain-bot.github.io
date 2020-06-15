@@ -91,7 +91,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: ##4e4e4e;
 }
 
 .overlay-mf {
@@ -277,7 +277,7 @@ li{
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: #e5c45e;
   margin-right: 10px;
 }
 
@@ -1072,7 +1072,7 @@ li{
 }
 
 .php-email-form button[type="submit"] {
-  background: #0078ff;
+  background: #e5c45e;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1080,7 +1080,7 @@ li{
 }
 
 .php-email-form button[type="submit"]:hover {
-  background: #3393ff;
+  background: #e5c45e;
 }
 
 @-webkit-keyframes animate-loading {
